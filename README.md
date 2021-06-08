@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sl1nkZz
 - 👀 I’m interested in programming with C# and other Languages
-- 🌱 I’m currently learning WPF
+- 🌱 I’m currently learning //
 - 💞️ I’m looking to collaborate on //
 - 📫 How to reach me: slinkz@outlook.de
 
