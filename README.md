@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sl1nkZz
 - 👀 I’m interested in prgramming with C#, C++ and PHP.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++ and python for discord bots.
 - 💞️ I’m looking to collaborate on anything related to C#, C++ and PHP.
 
 <!---
